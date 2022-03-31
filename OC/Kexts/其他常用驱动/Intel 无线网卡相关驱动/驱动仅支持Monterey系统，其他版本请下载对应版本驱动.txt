@@ -1,0 +1,10 @@
+注意：Intel无线网卡驱动区分版本，本驱动包仅支持Monterey系统，其他版本请下载对应版本驱动
+
+驱动教程：
+https://macx.top/13385.html
+
+Intel WiFi 驱动 Github下载地址：
+https://github.com/OpenIntelWireless/itlwm/releases
+
+HeliPort 客户端 Github下载地址：
+https://github.com/OpenIntelWireless/HeliPort/releases 
