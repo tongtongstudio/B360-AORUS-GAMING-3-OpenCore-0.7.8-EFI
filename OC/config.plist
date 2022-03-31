@@ -256,11 +256,11 @@
 				<key>AAPL,ig-platform-id</key>
 				<data>BwCbPg==</data>
 				<key>framebuffer-con0-alldata</key>
-				<data>AQAJAAAIAADHAwAA</data>
+				<data>AQAJAAQAAADHAwAA</data>
 				<key>framebuffer-con0-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-alldata</key>
-				<data>AgAKAAAIAADHAwAA</data>
+				<data>AgIAoAAIAAAMcDAA</data>
 				<key>framebuffer-con1-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con2-alldata</key>
@@ -795,7 +795,7 @@
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Acidanthera\macx</string>
+			<string>blackosx\BsxM1</string>
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
